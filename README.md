@@ -5,6 +5,11 @@
 * Used several preprocessing technique, such as one-hot encoding the labels, or constructing the training image for data augmentation.
 * The final model performs absolutely amazing, with almost a 100% accuracy.
 
+### Resources used
+**Python Version:** 3.8.5 <br>
+**Packages:** numpy, opencv-python, tensorflow, matplotlib, sickit-learn <br>
+**Requirements:** ```pip install -r requirements.txt```  
+
 ## Final Model:
 * MobileNetV2 architecture.
 * Compiled with an adam optimizer, and binary crossentropy loss function.
