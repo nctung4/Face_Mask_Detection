@@ -26,3 +26,6 @@
 ![](https://github.com/nctung4/Face_Mask_Detection/blob/main/try_model_with_new_images/No_Mask_1_resized.jpg "No Mask 1") ![](https://github.com/nctung4/Face_Mask_Detection/blob/main/try_model_with_new_images/No_Mask_1_pred_resized.jpg "No Mask 1 prediction")
 <br>
 ![](https://github.com/nctung4/Face_Mask_Detection/blob/main/try_model_with_new_images/No_Mask_2_resized.jpg "No Mask 2") ![](https://github.com/nctung4/Face_Mask_Detection/blob/main/try_model_with_new_images/No_Mask_2_pred_resized.jpg "No Mask 2 prediction")
+
+## Credits:
+* https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
